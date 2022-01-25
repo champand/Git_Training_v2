@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is to be overridden
+=======
+let me add few more entries to sample 3 files
+>>>>>>> develop
